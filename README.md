@@ -1,6 +1,6 @@
 # Spark Streaming with Twitter and Kafka
 
-###Running Environment
+### Running Environment
 
 java version  "1.8.0_181"
 
